@@ -13,6 +13,6 @@ namespace WpfApp3
         public Color Mycolor  { get; set; }
         public int Age  { get; set; }
         public string  MyName  { get; set; }
-        public double  Mydf   { get; set; }
+        public double  dgaf    { get; set; }
     }
 }
